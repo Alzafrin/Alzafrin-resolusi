@@ -3,6 +3,7 @@ RENCANA KONTEN ALZAFRIN
 - Javascript
   * ES6
   * Framework Javascript
+- dasar struktur data
 - PHP Frameworks
 - Interview
 - Vlog
