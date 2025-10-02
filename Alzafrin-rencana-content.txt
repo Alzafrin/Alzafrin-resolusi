@@ -4,6 +4,7 @@ RENCANA KONTEN ALZAFRIN
   * ES6
   * Framework Javascript
     ^ Vue
+    ^ React
 - dasar struktur data
 - PHP Frameworks
   * Laravel
